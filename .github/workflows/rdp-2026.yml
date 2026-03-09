@@ -21,8 +21,8 @@ jobs:
     timeout-minutes: 360
 
     env:
-      RDP_USER: masumhub
-      RDP_PASS: MasumHub237
+      RDP_USER: mtqmanik
+      RDP_PASS: Manik2200@@
       MAIN_RUNTIME_MIN: 360
 
     steps:
